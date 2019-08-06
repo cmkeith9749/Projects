@@ -389,6 +389,8 @@ KitchenQual: Kitchen quality
        TA	Typical/Average
        Fa	Fair
        Po	Poor
+	   
+	   
        	
 TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
 
