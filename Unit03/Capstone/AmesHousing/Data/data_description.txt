@@ -405,7 +405,7 @@ Functional: Home functionality (Assume typical unless deductions are warranted)
        Sev	Severely Damaged
        Sal	Salvage only
 		
-Fireplaces: Number of fireplaces
+cs: Number of fireplaces
 
 FireplaceQu: Fireplace quality
 
